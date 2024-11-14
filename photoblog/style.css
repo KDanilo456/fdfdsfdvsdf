@@ -9,15 +9,6 @@
 
 
 }
-a[href="/Студія"]{
-    color: var(--color);
-}
-a[href="info@devstudio.com"]{
-    color: var(--color);
-}
-a[href="/Портфоліо"]{
-    color: var(--black);
-}
 a[href="/Конткати"]{
     color: var(--black);
 }
@@ -68,4 +59,55 @@ a[href="info@devstudio.com"]{
 }
 .danilo12{
     color: var(--white);
+}
+.danilo21{
+    color: var(--blue);
+}
+.danilo22{
+    color: var(--black);
+}
+.danilo23{
+    color: var(--black);
+}
+.danilo24{
+    color: var(--blue);
+}
+a[href="/Контакти"]{
+    color: var(--black);
+}
+.danilo25{
+    color: var(--gray);
+}
+.danilo26{
+    color: var(--gray);
+}
+.danilo27{
+    color: var(--gray);
+}
+.danilo28{
+    color: var(--gray);
+}
+.danilo29{
+    color: var(--gray);
+}
+.danilo30{
+    color: var(--gray);
+}
+.danilo31{
+    color: var(--gray);
+}
+.danilo32{
+    color: var(--gray);
+}
+.danilo33{
+    color: var(--gray);
+}
+.danilo34{
+    color: var(--white);
+}
+.danilo51[href="info@devstudio.com"]{
+    color: var(--blue);
+}
+.danilo53[href="info@devstudio.com"]{
+    color: var(--blue);
 }
